@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-personal_cheatsheet"
+  site-url: "https://itaysegev.github.io/nbdev-personal_cheatsheet"
+  description: "Personl cheatsheet collection"
+  repo-branch: main
+  repo-url: "https://github.com/itaysegev/nbdev-personal_cheatsheet"
